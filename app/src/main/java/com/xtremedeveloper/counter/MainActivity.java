@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public boolean onLongClick(View view) {
                 card.startAnimation(AnimationUtils.loadAnimation(getApplicationContext(), R.anim.shake));
-                text.setText("0");
+                text.setText("0"); 
                 return false;
             }
         });
