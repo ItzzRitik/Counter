@@ -1,3 +1,5 @@
 # Counter
 Simple counter application, with basic animations and flat User Interface
-![Screenshot](screenshot.png?raw=true "Optional Title")
+Get Apk File Here :
+### [Download](Counter.apk?raw=true)
+![Screenshot](screenshot.png?raw=true)
