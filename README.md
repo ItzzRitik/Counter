@@ -6,10 +6,9 @@ Counter application is a simple representation of android animations and interpo
 - Left arrow rotates the card anti-clockwise and counter decreases.
 - Long press on card to wobble it and reset the counter.
 
-## Screencast
+### Screencast
 <img src="counter.gif" width=300/>
 
-## Download  
-Wanna try it ? grab it now. 
+### Wanna try it ? grab it now. 
 
 [<img src="download_button.png" width="200">](Counter.apk?raw=true)
