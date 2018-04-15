@@ -9,4 +9,7 @@ Counter application is a simple representation of android animations and interpo
 ## Screencast
 <img src="counter.gif" width=300/>
 
-## [Download](Counter.apk?raw=true)
+## Download  
+Wanna try it ? grab it now. 
+
+[<img src="download_button.png" width="200">](Counter.apk?raw=true)
