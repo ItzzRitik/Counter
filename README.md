@@ -7,7 +7,7 @@ Counter application is a simple representation of android animations and interpo
 - Long press on card to wobble it and reset the counter.
 
 ## Screencast
-<img src="counter.gif" width=300/>
+<div style="text-align:center"><img src="counter.gif" width=300/></div>
 
 ## Download
 Wanna try it ? grab it now. 
